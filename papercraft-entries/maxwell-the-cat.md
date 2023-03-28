@@ -1,5 +1,5 @@
 # Maxwell the Cat
-## Made January 2023
+## January 2023
 [As seen here](https://www.tiktok.com/t/ZTRbcDAoK/)
 
 ## Notes
