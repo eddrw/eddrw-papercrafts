@@ -14,4 +14,4 @@ Pretty straightforward. My only comments here are that the ears are encased in b
 TODO LINK LETTER AND MAKE A4 AND LINK IT
 
 
-Original model by ___ on Sketchfab. This model was made from scratch but utilizes the texture of the original model.
+Original model by bean(alwayshasbean) on Sketchfab: https://sketchfab.com/3d-models/dingus-the-cat-2ca7f3c1957847d6a145fc35de9046b0. This model was made from scratch but utilizes the texture of the original model.
