@@ -1,6 +1,6 @@
 # eddrw's papercrafts
 
-I've been looking for a place to store papercrafts I've shown on TikTok (TODO LINK TIKOK HERE) and will see how GitHub fares.
+I've been looking for a place to store papercrafts I've shown on [TikTok](https://www.tiktok.com/@evieddrw) and will see how GitHub fares.
 
 ## ok where are the papercrafts
 
