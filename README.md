@@ -7,8 +7,4 @@ I've been looking for a place to store papercrafts I've shown on TikTok (TODO LI
 Click the below links to access each entry.
 
 - [Maxwell the Cat](papercraft-entries/maxwell-the-cat.md)
-- Maxwell the Cube Cat
-
-## anything else?
-
-The papercrafts are free but if you want to support me [try playing the game I'm working on here](https://lizardtank.itch.io/lizard-unleashed) and maybe consider buying it when it launches
+- [Maxwell the Cube Cat](papercraft-entries/maxwell-the-cube.md)
