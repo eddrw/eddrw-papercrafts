@@ -16,3 +16,12 @@ ONE MORE IMPORTANT THING: The PNGs are Maxwell from different perspectives in Bl
 
 # Download
 
+[A4]
+
+[Letter]
+
+[A4 smaller]
+
+[Letter smaller]
+
+[No tabs](../papercraft-uploads/dingus1-dontrememberifletterora4-notabs.pdf)
