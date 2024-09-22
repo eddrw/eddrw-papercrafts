@@ -1,6 +1,5 @@
 # Maxwell the Cat
 ## January 2023
-[As seen here](https://www.tiktok.com/t/ZTRbcDAoK/)
 
 ## Notes
 - Letter and A4 versions are posted, this is the size of the paper you will print on
