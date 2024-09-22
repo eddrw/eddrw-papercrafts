@@ -1,7 +1,6 @@
 # Maxwell the Cube
 ## Made March 2023
 
-[As seen here](https://www.tiktok.com/@evieddrw/video/7210272295124798762)
 
 This is Maxwell, in cube form.
 
